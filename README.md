@@ -61,7 +61,7 @@ CAST	Converting height and diameter values for numeric sorting
 Key Findings
 
 Species dominance: The most common tree species in NYC is the London plane tree (Platanus × acerifolia), followed by honey locust and callery pear. The least common species appear only a handful of times across the entire census.
-Density is uneven: Tree density varies dramatically across neighborhoods, with some areas showing dense canopy coverage while others — often lower-income neighborhoods — have sparse tree populations.
+Density is uneven: Tree density varies dramatically across neighborhoods, with some areas showing dense canopy coverage while others have sparse tree populations.
 Height varies by borough: Staten Island and Queens generally have taller trees on average, while Manhattan and the Bronx show shorter average heights, likely reflecting planting age, species mix, and growing conditions.
 Canopy equity matters: The uneven distribution of trees across neighborhoods has implications for air quality, heat island effects, and environmental equity.
 Sample Queries

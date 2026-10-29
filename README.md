@@ -2,7 +2,7 @@ NYC Tree Census: Get to Know the Local Urban Tree Canopy
 
 Overview
 
-This project explores New York City's urban forest using the 2015 NYC Tree Census dataset. Through SQL queries and an interactive Tableau dashboard, I analyzed the distribution, diversity, and physical characteristics of trees across the five boroughs — identifying the most and least common species, mapping tree density by neighborhood, and comparing tree heights across boroughs.
+This project explores New York City's urban forest using the 2015 NYC Tree Census dataset. Through SQL queries and an interactive Tableau dashboard, I analyzed the distribution, diversity, and physical characteristics of trees across the five boroughs, identifying the most and least common species, mapping tree density by neighborhood, and comparing tree heights across boroughs.
 
 The goal is to make the urban canopy more legible: which species dominate, where the canopy is dense or sparse, and how tree characteristics vary across the city.
 
